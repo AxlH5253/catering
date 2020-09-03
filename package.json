@@ -38,7 +38,7 @@
     "browse": "0.4.0",
     "chart.js": "^2.9.3",
     "chartjs-plugin-zoom": "^0.7.5",
-    "cordova-android": "^4.1.1",
+    "cordova-android": "^6.0.0",
     "cordova-browser": "5.0.4",
     "cordova-plugin-advanced-http": "2.0.8",
     "cordova-plugin-android-permissions": "1.0.0",
