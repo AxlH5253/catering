@@ -39,7 +39,7 @@
     "chart.js": "^2.9.3",
     "chartjs-plugin-zoom": "^0.7.5",
     "cordova-android": "^4.1.1",
-    "cordova-browser": "5.0.4",
+    "cordova-browser": "6.0.0",
     "cordova-plugin-advanced-http": "2.0.8",
     "cordova-plugin-android-permissions": "1.0.0",
     "cordova-plugin-broadcaster": "3.1.1",
